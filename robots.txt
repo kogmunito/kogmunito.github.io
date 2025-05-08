@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://kogmunito.mihos.pl/kogmunito.txt
